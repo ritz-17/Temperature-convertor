@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">temp convertor</string>
+    <string name="backgroundimge_des">backgroundimge des</string>
+    <string name="temperature_converter">temperature converter</string>
+    <string name="eidt_hint">eidt hint</string>
+    <string name="fahrenheit">fahrenheit</string>
+    <string name="celsius">celsius</string>
+    <string name="textresult">textResult</string>
+</resources>
